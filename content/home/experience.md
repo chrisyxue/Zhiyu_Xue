@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "ChengDu, China"
   date_start = "2018-07-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Advised by (Prof. Lixin Duan)[http://lxduan.info/]"""
   
 [[experience]]
   title = "CEO"
