@@ -41,17 +41,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Visiting Student"
-  company = ""
-  company_url = ""
-  location = "University of Rochester, "
-  date_start = "2017-01-01"
-  date_end = ""
+  company = "VIStA"
+  company_url = "https://www.cs.rochester.edu/u/jluo/"
+  location = "University of Rochester, US"
+  date_start = "2020-04-01"
+  date_end = "2020-07-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
   
 [[experience]]
