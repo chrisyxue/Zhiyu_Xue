@@ -93,7 +93,7 @@ phone = "+86 18180055628"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Xiyuan Ave", city = "ChengDu", region = "High-Tech Zone", postcode = "610000", country = "China", country_code = "CN"}
+address = {street = "Xiyuan Ave", city = "High-Tech Zone, ChengDu", region = "SC", postcode = "610000", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
