@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Hello! I'm Zhiyu Xue, an undergraduate student of UESTC, major in Data Science and Big Data Technology. My research interests mainly include few-shot learning, interpretable ml and image captioning. As a member of [Data Intelligence Group](https://diggers.ai/), I'm advised [Prof. Lixin Duan](https://scholar.google.com.sg/citations?user=inRIcS0AAAAJ&hl=en) and [Prof. Wen Li](https://scholar.google.com.sg/citations?user=yjG4Eg4AAAAJ&hl=en).   
+Hello! I'm Zhiyu Xue, an undergraduate student of UESTC, major in Data Science and Big Data Technology. My research interests mainly include few-shot learning, interpretable ml and image captioning. As a member of [Data Intelligence Group](https://diggers.ai/), I'm advised by [Prof. Lixin Duan](https://scholar.google.com.sg/citations?user=inRIcS0AAAAJ&hl=en) and [Prof. Wen Li](https://scholar.google.com.sg/citations?user=yjG4Eg4AAAAJ&hl=en).   
 
 Now I'm highly motivated to apply for a PhD/MS program in 2021 Fall, to pursue my academic career. 
 
