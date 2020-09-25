@@ -36,26 +36,26 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: envelope
+  # icon_pack: fas
+  # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+  # icon_pack: fab
+  # link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=t72rUpAAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/chrisyxue?tab=repositories
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://github.com/chrisyxue/zyxue.github.com/blob/master/%E8%96%9B%E8%87%B3%E5%96%BB-CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xzy990228(at)gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Zhiyu Xue, an undergraduate student of UESTC, major in Data Science and Big Data Technology. My research interests mainly include few-shot learning, interpretable ml and image captioning. As a member of [Data Intelligence Group](https://diggers.ai/), I'm advised [Prof. Lixin Duan](https://scholar.google.com.sg/citations?user=inRIcS0AAAAJ&hl=en) and [Prof. Wen Li](https://scholar.google.com.sg/citations?user=yjG4Eg4AAAAJ&hl=en).   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
