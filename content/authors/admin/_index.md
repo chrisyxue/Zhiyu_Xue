@@ -44,7 +44,7 @@ social:
   # link: https://twitter.com/GeorgeCushen
   
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=t72rUpAAAAAJ&hl=zh-CN
   
 - icon: github
