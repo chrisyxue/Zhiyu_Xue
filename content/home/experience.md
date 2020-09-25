@@ -59,17 +59,6 @@ date_format = "Jan 2006"
   description = """
   Advised by [Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)
   """
-  
-[[experience]]
-  title = "Remote Visiting Student"
-  company = "Vision-CAIR"
-  company_url = "https://cemse.kaust.edu.sa/vision-cair"
-  location = "KAUST, Saudi Arabia"
-  date_start = "2020-11-01"
-  date_end = ""
-  description = """
-  Advised by [Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)
-  """
 
 [[experience]]
   title = "Summer Camp of Global Leadership"
