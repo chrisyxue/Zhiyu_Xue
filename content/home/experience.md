@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Research Assistant"
   company = "UESTC DIG"
@@ -24,8 +25,8 @@ date_format = "Jan 2006"
   location = "ChengDu, China"
   date_start = "2018-07-01"
   date_end = ""
-  description = """Advised by Prof. Lixin Duan and Prof. Wen Li.""""
-
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
 [[experience]]
   title = "CEO"
   company = "GenCoin"
