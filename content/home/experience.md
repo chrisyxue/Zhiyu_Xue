@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2021-06-01"
   description = """GPA: 3.81/4.0 
+  
   Average Score: 87.6/100"""
 
 [[experience]]
@@ -35,14 +36,14 @@ date_format = "Jan 2006"
   location = "UESTC, ChengDu, China"
   date_start = "2018-08-01"
   date_end = ""
-  description = """Advised by Prof. Lixin Duan"""
+  description = """Advised by [Prof. Lixin Duan](http://lxduan.info/)"""
   
 
 [[experience]]
   title = "Visiting Student"
-  company = "University of Rochester"
+  company = ""
   company_url = ""
-  location = "California"
+  location = "University of Rochester, "
   date_start = "2017-01-01"
   date_end = ""
   description = """
