@@ -25,8 +25,19 @@ date_format = "Jan 2006"
   location = "ChengDu, China"
   date_start = "2017-09-01"
   date_end = "2021-06-01"
-  description = """GPA 3.81/4.0 87.6/100"""
+  description = """GPA: 3.81/4.0 
+  Average Score: 87.6/100"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Data Intelligence Group"
+  company_url = "https://diggers.ai/"
+  location = "UESTC, ChengDu, China"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = """Advised by Prof. Lixin Duan"""
   
+
 [[experience]]
   title = "Visiting Student"
   company = "University of Rochester"
