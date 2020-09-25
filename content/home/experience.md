@@ -19,17 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Assistant"
-  company = "UESTC DIG"
-  company_url = "https://diggers.ai/"
+  title = "Undergraduate Student"
+  company = "University of Electronic Science and Technology of China"
+  company_url = ""
   location = "ChengDu, China"
-  date_start = "2018-07-01"
-  date_end = ""
-  description = """Advised by (Prof. Lixin Duan)[http://lxduan.info/]"""
+  date_start = "2017"
+  date_end = "2021"
+  description = """GPA 3.81/4.0 87.6/100"""
   
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Data Intelligence Group"
+  company_url = "https://diggers.ai/"
+  location = "UESTC, ChengDu, China"
+  date_start = "2018-07-01"
+  date_end = ""
+  description = """Advised by [Prof. Lixin Duan](http://lxduan.info/)"""
+  
+[[experience]]
+  title = "Visiting Student"
+  company = "University of Rochester"
   company_url = ""
   location = "California"
   date_start = "2017-01-01"
