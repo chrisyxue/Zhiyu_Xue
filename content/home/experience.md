@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "University of Electronic Science and Technology of China"
   company_url = ""
   location = "ChengDu, China"
-  date_start = "2017"
-  date_end = "2021"
+  date_start = "2017-09-01"
+  date_end = "2021-06-01"
   description = """GPA 3.81/4.0 87.6/100"""
   
 [[experience]]
