@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "ChengDu, China"
   date_start = "2018-07-01"
   date_end = ""
-  description = """Advised by Prof. Lixin Duan and Prof. Wen Li""""
+  description = """Advised by Prof. Lixin Duan and Prof. Wen Li.""""
   """
 
 [[experience]]
