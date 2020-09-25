@@ -19,6 +19,37 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Assistant"
+  company = "Data Intelligence Group"
+  company_url = "https://diggers.ai/"
+  location = "UESTC, China"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = """Advised by [Prof. Lixin Duan](http://lxduan.info/)"""
+  
+[[experience]]
+  title = "Remote Visiting Student"
+  company = "VIStA Group"
+  company_url = "https://www.cs.rochester.edu/u/jluo/"
+  location = "University of Rochester, US"
+  date_start = "2020-04-01"
+  date_end = "2020-07-01"
+  description = """
+  Advised by [Prof. Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
+  """
+  
+ [[experience]]
+  title = "Remote Intern"
+  company = "Group for Explainable AI"
+  company_url = "http://qszhang.com/index.php/team/"
+  location = "Shanghai Jiao Tong University, China"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  Advised by [Prof. Quanshi Zhang](https://scholar.google.com/citations?user=iFFhHK0AAAAJ&hl=zh-CN)
+  """
+
+[[experience]]
   title = "Undergraduate Student"
   company = "University of Electronic Science and Technology of China"
   company_url = ""
@@ -28,35 +59,4 @@ date_format = "Jan 2006"
   description = """GPA: 3.81/4.0 
   
   Average Score: 87.6/100"""
-
-[[experience]]
-  title = "Research Assistant"
-  company = "Data Intelligence Group"
-  company_url = "https://diggers.ai/"
-  location = "UESTC, ChengDu, China"
-  date_start = "2018-08-01"
-  date_end = ""
-  description = """Advised by [Prof. Lixin Duan](http://lxduan.info/)"""
-  
-
-[[experience]]
-  title = "Visiting Student"
-  company = "VIStA"
-  company_url = "https://www.cs.rochester.edu/u/jluo/"
-  location = "University of Rochester, US"
-  date_start = "2020-04-01"
-  date_end = "2020-07-01"
-  description = """
-  Advised by Prof. Jiebo Luo
-  """
-  
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
 +++
