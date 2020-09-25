@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   title = "Remote Visiting Student"
   company = "VIStA Group"
   company_url = "https://www.cs.rochester.edu/u/jluo/"
-  location = "University of Rochester, US"
+  location = "University of Rochester, USA"
   date_start = "2020-04-01"
   date_end = "2020-07-01"
   description = """
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   """
   
  [[experience]]
-  title = "Remote Intern"
+  title = "Remote Research Intern"
   company = "Group for Explainable AI"
   company_url = "http://qszhang.com/index.php/team/"
   location = "Shanghai Jiao Tong University, China"
@@ -58,6 +58,27 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Advised by [Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)
+  """
+  
+[[experience]]
+  title = "Remote Visiting Student"
+  company = "Vision-CAIR"
+  company_url = "https://cemse.kaust.edu.sa/vision-cair"
+  location = "KAUST, Saudi Arabia"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = """
+  Advised by [Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)
+  """
+
+[[experience]]
+  title = "Summer Camp of Global Leadership"
+  company = "UC Berkeley"
+  company_url = ""
+  location = "California, USA"
+  date_start = "2018-07-01"
+  date_end = "2018-08-01"
+  description = """
   """
 
 [[experience]]
