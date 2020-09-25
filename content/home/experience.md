@@ -47,6 +47,7 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = "2020-07-01"
   description = """
+  Advised by Prof. Jiebo Luo
   """
   
 [[experience]]
