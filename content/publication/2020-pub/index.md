@@ -16,7 +16,7 @@ authors = ["Zhiyu Xue", "Zhenshan Xie", "Zheng Xing", "Lixin Duan"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *CVPRW2020*"
@@ -29,7 +29,7 @@ abstract = "Few-shot learning is an important research topic in image classifica
 # summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
 
 # Digital Object Identifier (DOI)
-doi = "https://dblp.org/pid/201/8241.html"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,8 +55,8 @@ tags = ["Source Themes"]
 # slides = "example"
 
 # Links (optional).
-#url_pdf = ""
-#url_code = "#"
+url_pdf = "https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.pdf"
+url_code = "https://github.com/chrisyxue/RMN-RPN-for-FSL"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = ""
