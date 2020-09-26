@@ -59,8 +59,8 @@ url_pdf = "https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relat
 url_code = "https://github.com/chrisyxue/RMN-RPN-for-FSL"
 #url_dataset = "#"
 #url_project = ""
-#url_slides = ""
-#url_video = "#"
+#url_slides = "https://github.com/chrisyxue/RMN-RPN-for-FSL/blob/master/37-slides.pdf"
+#url_video = "https://github.com/chrisyxue/RMN-RPN-for-FSL/blob/master/37-poster.mp4"
 #url_poster = "#"
 #url_source = "#"
 
@@ -82,6 +82,5 @@ url_code = "https://github.com/chrisyxue/RMN-RPN-for-FSL"
 +++
 
 {{% alert note %}}
-This paper could be find [here](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.pdf)
-(Chinese version).
+This paper could be find [here](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.pdf).
 {{% /alert %}}
