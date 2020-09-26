@@ -1,10 +1,10 @@
 
 +++
-title = "Magnetic Field Energy of Two Parallel Current-carrying Straight Wires"
-date = 2020-01-13T00:00:00
+title = "Relative Position and Map Networks in Few-shot Learning for Image Classification"
+date = 2020-03-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pengzhi Yang", "Jiahao Liu","Hongchun Yang","Shaoyi Wu","Baohua Teng"]
+authors = ["Zhiyu Xue", "Zhenshan Xie", "Zheng Xing", "Lixin Duan"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -19,17 +19,17 @@ authors = ["Pengzhi Yang", "Jiahao Liu","Hongchun Yang","Shaoyi Wu","Baohua Teng
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Physics Bulletin*"
+publication = "In *CVPRW2020*"
 # publication_short = "In *STC*"
 
 # Abstract.
-abstract = "The distribution of magnetic field energy in parallel current-carrying straight wires is a basic problem in university physics course. Based on the principle of vector synthesis of magnetic induction intensity, this paper calculates the energy density distribution of magnetic field in two parallel long current-carrying straight wires, obtains the total magnetic energy in unit length space along the wire direction. With help of Mathcad simulation, this paper draws magnetic field distribution and total magnetic energy curves under different current directions and different wire distances, thus gives a reasonable and intuitive theoretical description of the basic problem mentioned above."
+abstract = "Few-shot learning is an important research topic in image classification, which aims to train robust classifiers to categorize images coming from new classes where only a few labeled samples are available. Recently, metric learning based methods have achieved promising performance, and in those methods a distance metric is learned to directly compare query images against training samples. In this work, we consider finer information from image feature maps and propose a new approach. Specifically, we newly develop Relative Position Network (RPN) based on the attention mechanism to compare different pairs of activation cells from each query and training images, which captures their intrinsic correspondences. Moreover, we introduce Relative Map Network (RMN) to learn a distance metric based on the attention maps obtained from RPN, which better measures the similarity between query and training images."
 
 # Summary. An optional shortened abstract.
 # summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://dblp.org/pid/201/8241.html"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -82,6 +82,6 @@ tags = ["Source Themes"]
 +++
 
 {{% alert note %}}
-This paper could be find [here](http://wltb.cnjournals.com/ch/reader/create_pdf.aspx?file_no=20181649&flag=1&journal_id=wltb&year_id=2019)
+This paper could be find [here](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.pdf)
 (Chinese version).
 {{% /alert %}}
