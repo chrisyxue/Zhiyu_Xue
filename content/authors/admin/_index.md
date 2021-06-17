@@ -30,6 +30,10 @@ education:
   - course: BSc in Data Science and Big Data Technology
     institution: University of Electronic Science and Technology of China
     year: 2017-2021
+  - course: PhD in Computer Science
+    institution: Michigan State University
+    year: 2021-Present
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
