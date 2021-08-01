@@ -73,5 +73,5 @@ user_groups:
 
 Hello! I'm Zhiyu Xue, an undergraduate student of UESTC, major in Data Science and Big Data Technology. My research interests mainly include few-shot learning, interpretable ml and image captioning. As a member of [Data Intelligence Group](https://diggers.ai/), I'm advised by [Prof. Lixin Duan](https://scholar.google.com.sg/citations?user=inRIcS0AAAAJ&hl=en) and [Prof. Wen Li](https://scholar.google.com.sg/citations?user=yjG4Eg4AAAAJ&hl=en).   
 
-Now I'm an incoming PhD student supervised by [Jiayu Zhou](http://illidanlab.github.io/)
+Now I'm an incoming PhD student supervised by [Prof. Jiayu Zhou](http://illidanlab.github.io/)
 
